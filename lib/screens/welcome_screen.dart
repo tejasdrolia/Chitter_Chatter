@@ -22,20 +22,21 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
           children: <Widget>[
             Row(
               children: <Widget>[
-                Hero(
-                  tag: 'logo',
-                  child: Container(
-                    child: Image.asset('images/logo.png'),
-                    height: 60.0,
+                   Hero(
+                    tag: 'logo',
+                    child: Container(
+                      child: Image.asset('images/logo.png'),
+                      height: 60.0,
+                    ),
                   ),
-                ),
-                Text(
-                  'Flash Chat',
-                  style: TextStyle(
-                    fontSize: 45.0,
-                    fontWeight: FontWeight.w900,
+                   Text(
+                    'Chitter-Chatter',
+                    style: TextStyle(
+                      fontSize: 30.0,
+                      fontWeight: FontWeight.w900,
+                      color: Colors.blueGrey,
+                    ),
                   ),
-                ),
               ],
             ),
             SizedBox(
