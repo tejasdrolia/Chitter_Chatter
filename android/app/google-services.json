@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265385222718",
+    "project_id": "chitter-chatter-da6a6",
+    "storage_bucket": "chitter-chatter-da6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265385222718:android:0d843573d1b6f65b70676f",
+        "android_client_info": {
+          "package_name": "co.harsh.chitter_chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265385222718-koni8jnov81o8jjorc2i5mlccn0c4i2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmGY7Lu8hgCxgBKgt8-9iNOSUqw8TIC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265385222718-koni8jnov81o8jjorc2i5mlccn0c4i2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
