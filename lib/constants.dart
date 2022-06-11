@@ -9,13 +9,18 @@ const kSendButtonTextStyle = TextStyle(
 const kMessageTextFieldDecoration = InputDecoration(
   contentPadding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
   hintText: 'Type your message here...',
+  hintStyle: TextStyle(color: Colors.white),
   border: InputBorder.none,
 );
 
 const kMessageContainerDecoration = BoxDecoration(
-  border: Border(
-    top: BorderSide(color: Colors.lightBlueAccent, width: 2.0),
-  ),
+  borderRadius: BorderRadius.all(Radius.elliptical(20.0, 20.0)),
+  /*border: Border(
+    top: BorderSide(color: Colors.black54, width: 2.0),
+
+  ),*/
+
+  color: Color(0xFF3D3B59),
 );
 
 const kTextFieldDecoration=InputDecoration(
