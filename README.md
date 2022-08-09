@@ -15,7 +15,7 @@ Linking with Firebase Authentication system.
 
 Client and backend validation during logging and register.
 
-Real-time send and receive messages using stream and linking with Firebaes Firestore database.
+Real-time send and receive messages using stream and linking with Firebase Firestore database.
 
 Databse used : NOSQL
 
