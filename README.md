@@ -28,15 +28,11 @@ Cloud_firestore package
 
 Firebase_core package
 
-Shared_preferences package
-
 Building complex UI
 
 Use of Stream & Stream Builder
 
 Firebase Auth: Sign in, Sign up and Sign out
-
-Shared Preference to keep the user Logged_In
 
 Perform simple and compound queries in Cloud Firestore
 
